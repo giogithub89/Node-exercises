@@ -1,0 +1,7 @@
+Welcome to Node.js v16.16.0.
+Type ".help" for more information.
+> 5+6
+11
+> _ + 10
+21
+> 
