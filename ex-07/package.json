@@ -1,0 +1,19 @@
+{
+  "name": "node-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giogithub89/Node-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giogithub89/Node-exercises/issues"
+  },
+  "homepage": "https://github.com/giogithub89/Node-exercises#readme"
+}
