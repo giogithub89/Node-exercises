@@ -1,0 +1,13 @@
+{
+  "name": "ex-15",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task": "echo \"custom script"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
