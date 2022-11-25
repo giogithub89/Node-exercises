@@ -7,10 +7,10 @@ const app = createApp();
 const request = supertest(app);
 
 test("GET /", async () => {
-  const response = await request
-    .get("/")
-    .expect(200)
-    .expect("Content-Type", " text/html");
+    const response = await request
+        .get("/")
+        .expect(200)
+        .expect("Content-Type", " text/html");
 
-  expect(response.text);
+    expect(response.text);
 });
